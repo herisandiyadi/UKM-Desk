@@ -1,16 +1,29 @@
-# enforcea
+# UKM Desk App - Enforcea
 
-A new Flutter project.
+Aplikasi pajak Enforcea
 
-## Getting Started
+## Perubahan & Tambahan Fitur Baru
 
-This project is a starting point for a Flutter application.
+- Perubahan paket yang awal per 3 bulan menjadi 6 bulanan.
+- Penambahan margin pada Text/ Deskripsi
+- Penambahan ukuran pada banner halaman depan
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot Aplikasi
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+  <b> Home Page </b> <br>
+  <img src="https://user-images.githubusercontent.com/69846838/159618412-f493ad23-caff-4131-aaa3-e75fc92c06a3.png" width="350" title="Home Page">
+  </br> </br>
+  <b> Tax Services </b><br>
+  <img src="https://user-images.githubusercontent.com/69846838/159618544-42c81d5b-ac40-4383-8bcd-3fb33fa410b0.png" width="350" alt="Detail Page">
+  </br> </br>
+  <b> Tax Services Detail </b><br>
+  <img src="https://user-images.githubusercontent.com/69846838/159618629-0e8332a5-403c-4a14-88a0-4d324a66a4fe.png" width="350" alt="WebView Page">
+  <b> Banner </b><br>
+  <img src="https://user-images.githubusercontent.com/69846838/159618696-ef429b4a-f000-4d34-981f-67a8aeff1615.png" width="350" alt="WebView Page">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
